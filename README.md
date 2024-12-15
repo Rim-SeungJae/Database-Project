@@ -1,4 +1,4 @@
-# Database Programming and AI Integration Projects
+# Database Project
 
 ## Table of Contents
 - [Introduction](#introduction)
